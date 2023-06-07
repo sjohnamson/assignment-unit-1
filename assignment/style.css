@@ -9,3 +9,31 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+body {
+    background-color: chartreuse;
+}
+
+header, footer { 
+    background-color: coral;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    color:chartreuse;
+    font-style: italic;
+}
+
+img {
+    border: coral solid 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    font-family:monospace, serif;
+}
